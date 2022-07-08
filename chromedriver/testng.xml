@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Chromedriver1.DDTestNg"/>
+      <class name="TestNgAnnotation.ExcuteFailedTestInTestNg"/>
+      <class name="Chromedriver1.AssertionTestNg"/>
+      <class name="Chromedriver1.TestNgAnnotation"/>
+      <class name="xlsxAutomationInExcel.DataDrivenTest"/>
+      <class name="SynchronizationInWaits.impliciteswait"/>
+      <class name="Chromedriver1.DependsOnTestNg"/>
+      <class name="TestNgAnnotation.HardandSoftTestNg"/>
+      <class name="Chromedriver1.DataDrivenTest"/>
+      <class name="TestNgAnnotation.DependsOnTestNg"/>
+      <class name="TestNgAnnotation.AssertionTestNg"/>
+      <class name="Chromedriver1.DemoTest"/>
+      <class name="Chromedriver1.GrouptestNgTest"/>
+      <class name="TestNgAnnotation.TestNgAnnotation"/>
+      <class name="TestNgAnnotation.GrouptestNgTest"/>
+      <class name="Chromedriver1.DisableTestNg"/>
+      <class name="Chromedriver1.pariotiesTestNg"/>
+      <class name="Action.Practies"/>
+      <class name="Chromedriver1.TestNgDefaultExecutionorder"/>
+      <class name="TestNgAnnotation.DemoTest"/>
+      <class name="chromedriver.waitinselenium"/>
+      <class name="TestNgAnnotation.pariotiesTestNg"/>
+      <class name="Chromedriver1.DependancyandprioritiesTestNg"/>
+      <class name="Chromedriver1.ExcuteFailedTestInTestNg"/>
+      <class name="TestNgAnnotation.TestNgDefaultExecutionorder"/>
+      <class name="chromedriver.FlunitWait"/>
+      <class name="TestNgAnnotation.DisableTestNg"/>
+      <class name="TestNgAnnotation.DependancyandprioritiesTestNg"/>
+      <class name="chromedriver.Explcitlywait"/>
+      <class name="chromedriver.impliciteswait"/>
+      <class name="TestNgAnnotation.DDTestNg"/>
+      <class name="SynchronizationInWaits.Explcitlywait"/>
+      <class name="Chromedriver1.HardandSoftTestNg"/>
+      <class name="SynchronizationInWaits.FlunitWait"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
